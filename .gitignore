@@ -1,0 +1,8 @@
+.env
+venv/
+spotify_json/
+MusicCSV/
+spotify_all.csv
+scrobble_progress.json
+__pycache__/
+*.pyc
