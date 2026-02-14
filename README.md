@@ -17,6 +17,7 @@ This project converts Spotify privacy export JSON files → CSV → batches → 
 🧹 Works with large Spotify history exports
 
 📁 Project Structure
+
 spotify-to-lastfm/
 │
 ├── spotify_json/                 # Put Spotify JSON files here
