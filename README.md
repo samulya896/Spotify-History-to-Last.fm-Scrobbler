@@ -199,11 +199,3 @@ Auto installer
 After running everything, your old Spotify history will appear in:
 
 Last.fm → Profile → Recent Tracks
-
-🧠 NEXT STEP (IMPORTANT)
-
-After pasting:
-
-git add README.md
-git commit -m "Update README V1"
-git push
